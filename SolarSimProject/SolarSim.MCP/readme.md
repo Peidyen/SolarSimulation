@@ -1,0 +1,4 @@
+Welcome to solar SIM gonna build a simulation of the solarsystemwith.net just to demonstrate some properties. Meaning to put some stuff out there open source for awhile seems like this might be a good place to open up a application put some parameters out there show how to connect it via MCP so that an LLM can access it. Gonna look at doing a real time simulation so who knows what this will turn into gonna start out very crude with just planetary orbit numbers. Let me know what you think.
+
+hopefully this inspires some folks to....o sharpening my C sharp skills.
+hopefully this inspires some folks to....o sharpening my C sharp skills periodHopefully this inspires some folks to try some things. I've been doing a lot of Python lately and wanted to get back into sharpening my C# skills.
