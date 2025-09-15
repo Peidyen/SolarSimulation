@@ -1,0 +1,14 @@
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\bin\Debug\net9.0\SolarSim.exe
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\bin\Debug\net9.0\SolarSim.deps.json
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\bin\Debug\net9.0\SolarSim.runtimeconfig.json
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\bin\Debug\net9.0\SolarSim.dll
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\bin\Debug\net9.0\SolarSim.pdb
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\SolarSim.GeneratedMSBuildEditorConfig.editorconfig
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\SolarSim.AssemblyInfoInputs.cache
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\SolarSim.AssemblyInfo.cs
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\SolarSim.csproj.CoreCompileInputs.cache
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\SolarSim.dll
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\refint\SolarSim.dll
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\SolarSim.pdb
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\SolarSim.genruntimeconfig.cache
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim\obj\Debug\net9.0\ref\SolarSim.dll

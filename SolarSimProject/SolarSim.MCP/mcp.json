@@ -1,0 +1,15 @@
+{
+  "name": "solarsim",
+  "version": "0.2.0",
+  "description": "Solar system n-body demo exposed as MCP tools.",
+  "tools": [
+    { "name": "list_bodies", "input_schema": {} },
+    { "name": "get_state", "input_schema": {} },
+    { "name": "diagnostics", "input_schema": {} },
+    { "name": "step", "input_schema": {"type":"object","properties":{"dt":{"type":"number"},"steps":{"type":"integer"}},"required":["dt"]}},
+    { "name": "reset", "input_schema": {} },
+    { "name": "load_preset", "input_schema": {"type":"object","properties":{"name":{"type":"string"}},"required":["name"]}},
+    { "name": "set_body_state", "input_schema": {"type":"object","properties":{"name":{"type":"string"},"mass":{"type":"number"},"position":{"type":"array","items":{"type":"number"},"minItems":3,"maxItems":3},"velocity":{"type":"array","items":{"type":"number"},"minItems":3,"maxItems":3}},"required":["name","position","velocity"]}},
+    { "name": "add_body", "input_schema": {"type":"object","properties":{"name":{"type":"string"},"mass":{"type":"number"},"position":{"type":"array","items":{"type":"number"},"minItems":3,"maxItems":3},"velocity":{"type":"array","items":{"type":"number"},"minItems":3,"maxItems":3}},"required":["name","mass","position","velocity"]}}
+  ]
+}

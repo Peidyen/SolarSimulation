@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "VrZNbM4nixk78LO8ykxz6haJbO1vufM3QxQshZRZdDc=",
+  "Source": "SolarSim.Web",
+  "BasePath": "_content/SolarSim.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SolarSim.Web\\wwwroot",
+      "Source": "SolarSim.Web",
+      "ContentRoot": "E:\\Source\\Astronomy Simulations\\SolarSimulation\\SolarSimProject\\SolarSim.Web\\wwwroot\\",
+      "BasePath": "_content/SolarSim.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Source\\Astronomy Simulations\\SolarSimulation\\SolarSimProject\\SolarSim.Web\\wwwroot\\index.html",
+      "SourceId": "SolarSim.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Source\\Astronomy Simulations\\SolarSimulation\\SolarSimProject\\SolarSim.Web\\wwwroot\\",
+      "BasePath": "_content/SolarSim.Web",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hcu7tmh7pa",
+      "Integrity": "n0XEau8ZzryJKnf3df4g54IH8SIDijkAT/qAuzxiFGA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.hcu7tmh7pa.html",
+      "AssetFile": "E:\\Source\\Astronomy Simulations\\SolarSimulation\\SolarSimProject\\SolarSim.Web\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0XEau8ZzryJKnf3df4g54IH8SIDijkAT/qAuzxiFGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Sep 2025 14:56:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hcu7tmh7pa"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0XEau8ZzryJKnf3df4g54IH8SIDijkAT/qAuzxiFGA="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\Source\\Astronomy Simulations\\SolarSimulation\\SolarSimProject\\SolarSim.Web\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4060"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n0XEau8ZzryJKnf3df4g54IH8SIDijkAT/qAuzxiFGA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 12 Sep 2025 14:56:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n0XEau8ZzryJKnf3df4g54IH8SIDijkAT/qAuzxiFGA="
+        }
+      ]
+    }
+  ]
+}
