@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SolarSim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34739b485c374bf6cb094c7da3cb49321ca535ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("SolarSim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SolarSim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

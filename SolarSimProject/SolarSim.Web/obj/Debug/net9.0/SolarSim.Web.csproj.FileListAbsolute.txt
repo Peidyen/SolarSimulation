@@ -33,3 +33,4 @@ E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim.Web\obj
 E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim.Web\obj\Debug\net9.0\SolarSim.Web.pdb
 E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim.Web\obj\Debug\net9.0\SolarSim.Web.genruntimeconfig.cache
 E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim.Web\obj\Debug\net9.0\ref\SolarSim.Web.dll
+E:\Source\Astronomy Simulations\SolarSimulation\SolarSimProject\SolarSim.Web\obj\Debug\net9.0\SolarSim.Web.sourcelink.json
